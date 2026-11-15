@@ -1,4 +1,14 @@
 {
  "deleted": [],
- "apts": {}
+ "apts": {
+  "apt-mwi1e92f": {
+   "name": "Новая квартира",
+   "type": "2 комнаты",
+   "cap": 4,
+   "desc": "eefjeojsojfs",
+   "photos": [
+    "photos/apt-mwi1e92f/1794759395488-0.jpg"
+   ]
+  }
+ }
 }
